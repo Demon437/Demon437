@@ -84,12 +84,15 @@ Cloudinary
 - Role-Based Access
 
 ---
-
 ## 📈 GitHub Stats
 
-![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demon437&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Demon437&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📊 What I Bring
 
