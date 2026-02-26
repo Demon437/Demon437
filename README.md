@@ -86,13 +86,9 @@ Cloudinary
 ---
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Demon437&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact)
 
 ## 📊 What I Bring
 
