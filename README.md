@@ -1,16 +1,112 @@
-## Hi there 👋
+# 👋 Hi, I'm Manthan
 
-<!--
-**Demon437/Demon437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack | Microservices Architecture  
+🏗 SaaS-Oriented Product Builder  
+💼 Full Stack Developer Intern at DigitalFlyHighSolutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and microservices architecture.
+
+I have worked on real-world client projects including:
+
+- 🚗 Car Dealer Management SaaS System
+- 🏢 B2B Marketplace Platform (IndiaMart Inspired)
+- 🏥 Hospital Appointment System
+- 🛒 E-commerce Platforms
+- 🏭 ERP-Based Applications
+
+I focus on:
+- Clean Architecture
+- Role-Based Access Control
+- Secure Authentication (JWT & HTTP-only Cookies)
+- Production Deployment
+- SaaS Scalability Thinking
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+React.js | TypeScript | Tailwind CSS | Bootstrap | Redux | Framer Motion
+
+### ⚙ Backend
+Node.js | Express.js | REST APIs | Microservices | JWT Auth | Cookie-based Auth
+
+### 🗄 Database
+MongoDB | MySQL | PostgreSQL
+
+### ☁ Deployment & DevOps
+Git | GitHub | Docker  
+Vercel | Render | Railway | Netlify  
+
+### 🎨 Design & Productivity
+Figma | Canva  
+
+### 🤖 AI & Development Tools
+ChatGPT | Gemini AI | GitHub Copilot | Cursor AI  
+
+### 🧰 Tools
+Postman  
+MongoDB Compass  
+MySQL Workbench  
+pgAdmin  
+VS Code  
+Chrome DevTools  
+Cloudinary  
+
+---
+
+## 🚗 Featured Projects
+
+### 🔹 Car Dealer Management System (MERN - SaaS Ready)
+- Sell Request & Admin Approval Workflow
+- Dynamic Admin Expense Management
+- Mark as Sold with Payment Tracking
+- Loan & Partial Payment Handling
+- Invoice PDF Generation
+- WhatsApp Invoice Automation
+- Profit Analytics Dashboard
+- Cloudinary File Management
+- Production Deployment
+
+---
+
+### 🔹 My Industry House – B2B Marketplace
+- Buyer Requirement System
+- Seller Lead Purchase Flow
+- Rating & Feedback Module
+- Admin Dashboard System
+- Microservices Architecture (KrakenD API Gateway)
+- Real-Time Chat System
+- Role-Based Access
+
+---
+
+## 📈 GitHub Stats
+
+![Manthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demon437&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=radical)
+
+## 📊 What I Bring
+
+✔ Real Client Project Experience  
+✔ SaaS Product Thinking  
+✔ Microservices Architecture  
+✔ Production Deployment Handling  
+✔ API Design & Security  
+✔ Performance Optimization  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (Add Your LinkedIn Link)  
+Email: (Add Your Email)
+
+---
+
+⭐ Always building. Always improving.
