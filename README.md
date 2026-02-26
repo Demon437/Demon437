@@ -103,8 +103,8 @@ Cloudinary
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add Your LinkedIn Link)  
-Email: (Add Your Email)
+LinkedIn: https://www.linkedin.com/in/manthan-namdev-289325336/?skipRedirect=true
+Email: manthannamdev100@gmail.com
 
 ---
 
