@@ -88,7 +88,7 @@ Cloudinary
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demon437&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=tokyonight)
 
 ## 📊 What I Bring
 
