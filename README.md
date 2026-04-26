@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manthan
 
 🚀 Building Scalable SaaS Products | MERN | Microservices  
-💼 Full Stack Developer @ DigitalFlyHighSolutions  
+💼 Full Stack Developer @ Webixinfotech
 
 ---
 
