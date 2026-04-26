@@ -13,30 +13,29 @@
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🚗 Car Management System
-Vehicle showroom & booking platform with filtering and enquiry workflow.
+🚗 Car Management System  
+Vehicle showroom & booking platform with filtering and enquiry workflow.  
 
 🔹 React, Vite, Tailwind  
-🔗 Live | 🔗 Repo  
+🔗 [Live](https://your-live-link.com) | 🔗 [Repo] https://github.com/Demon437/Car-Deal-Frontend-Demo
 
 ---
 
-### 🏨 Luxury Resort Platform
-Full-stack hospitality platform with enquiry system & email automation.
+🏨 Luxury Resort Platform  
+Full-stack hospitality platform with enquiry system & email automation.  
 
 🔹 MERN, Nodemailer  
-🔗 Live | 🔗 Repo  
+🔗 [Live] https://resort.webixinfotech.in | 🔗 [Repo] https://github.com/Demon437/Resort-Website-Frontend
 
 ---
 
-### 🎉 EventHub
-Modern event platform with animations & event discovery.
+🎉 EventHub  
+Modern event platform with animations & event discovery.  
 
 🔹 React, Framer Motion  
-🔗 Live: https://eventhub.webixinfotech.in  
-
+🔗 [Live] https://eventhub.webixinfotech.in | 🔗 [Repo] https://github.com/Demon437/Event-Management-System  
 ---
 
 ## 📊 GitHub Stats
