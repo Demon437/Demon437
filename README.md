@@ -13,38 +13,42 @@
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🚗 Car Management System  
+### 🚗 Car Management System  
 Vehicle showroom & booking platform with filtering and enquiry workflow.  
 
 🔹 React, Vite, Tailwind  
-🔗 [Live] https://car.webixinfotech.in | 🔗 [Repo] https://github.com/Demon437/Car-Deal-Frontend-Demo
+🔗 [Live Demo](https://car.webixinfotech.in)  
+📂 [Source Code](https://github.com/Demon437/Car-Deal-Frontend-Demo)
 
 ---
 
-🏨 Luxury Resort Platform  
+### 🏨 Luxury Resort Platform  
 Full-stack hospitality platform with enquiry system & email automation.  
 
 🔹 MERN, Nodemailer  
-🔗 [Live] https://resort.webixinfotech.in | 🔗 [Repo] https://github.com/Demon437/Resort-Website-Frontend
+🔗 [Live Demo](https://resort.webixinfotech.in)  
+📂 [Source Code](https://github.com/Demon437/Resort-Website-Frontend)
 
 ---
 
-🎉 EventHub  
+### 🎉 EventHub  
 Modern event platform with animations & event discovery.  
 
 🔹 React, Framer Motion  
-🔗 [Live] https://eventhub.webixinfotech.in | 🔗 [Repo] https://github.com/Demon437/Event-Management-System  
+🔗 [Live Demo](https://eventhub.webixinfotech.in)  
+📂 [Source Code](https://github.com/Demon437/Event-Management-System)
+
 ---
 
 ## 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/manthan-namdev-289325336/
-Email: manthannamdev100@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/manthan-namdev-289325336/  
+📧 Email: manthannamdev100@gmail.com
