@@ -1,111 +1,51 @@
 # 👋 Hi, I'm Manthan
 
-🚀 Full Stack Developer | MERN Stack | Microservices Architecture  
-🏗 SaaS-Oriented Product Builder  
-💼 Full Stack Developer Intern at DigitalFlyHighSolutions  
+🚀 Building Scalable SaaS Products | MERN | Microservices  
+💼 Full Stack Developer @ DigitalFlyHighSolutions  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack and microservices architecture.
-
-I have worked on real-world client projects including:
-
-- 🚗 Car Dealer Management SaaS System
-- 🏢 B2B Marketplace Platform (IndiaMart Inspired)
-- 🏥 Hospital Appointment System
-- 🛒 E-commerce Platforms
-- 🏭 ERP-Based Applications
-
-I focus on:
-- Clean Architecture
-- Role-Based Access Control
-- Secure Authentication (JWT & HTTP-only Cookies)
-- Production Deployment
-- SaaS Scalability Thinking
+💡 I build production-ready applications with real-world use cases  
+⚙ Focused on scalability, performance & clean architecture  
+📦 Experience with ERP systems, marketplaces & SaaS platforms  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Frontend
-React.js | TypeScript | Tailwind CSS | Bootstrap | Redux | Framer Motion
+### 🚗 Car Management System
+Vehicle showroom & booking platform with filtering and enquiry workflow.
 
-### ⚙ Backend
-Node.js | Express.js | REST APIs | Microservices | JWT Auth | Cookie-based Auth
-
-### 🗄 Database
-MongoDB | MySQL | PostgreSQL
-
-### ☁ Deployment & DevOps
-Git | GitHub | Docker  
-Vercel | Render | Railway | Netlify  
-
-### 🎨 Design & Productivity
-Figma | Canva  
-
-### 🤖 AI & Development Tools
-ChatGPT | Gemini AI | GitHub Copilot | Cursor AI  
-
-### 🧰 Tools
-Postman  
-MongoDB Compass  
-MySQL Workbench  
-pgAdmin  
-VS Code  
-Chrome DevTools  
-Cloudinary  
+🔹 React, Vite, Tailwind  
+🔗 Live | 🔗 Repo  
 
 ---
 
-## 🚗 Featured Projects
+### 🏨 Luxury Resort Platform
+Full-stack hospitality platform with enquiry system & email automation.
 
-### 🔹 Car Dealer Management System (MERN - SaaS Ready)
-- Sell Request & Admin Approval Workflow
-- Dynamic Admin Expense Management
-- Mark as Sold with Payment Tracking
-- Loan & Partial Payment Handling
-- Invoice PDF Generation
-- WhatsApp Invoice Automation
-- Profit Analytics Dashboard
-- Cloudinary File Management
-- Production Deployment
+🔹 MERN, Nodemailer  
+🔗 Live | 🔗 Repo  
 
 ---
 
-### 🔹 My Industry House – B2B Marketplace
-- Buyer Requirement System
-- Seller Lead Purchase Flow
-- Rating & Feedback Module
-- Admin Dashboard System
-- Microservices Architecture (KrakenD API Gateway)
-- Real-Time Chat System
-- Role-Based Access
+### 🎉 EventHub
+Modern event platform with animations & event discovery.
 
----
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Demon437&layout=compact&theme=tokyonight)
-
-## 📊 What I Bring
-
-✔ Real Client Project Experience  
-✔ SaaS Product Thinking  
-✔ Microservices Architecture  
-✔ Production Deployment Handling  
-✔ API Design & Security  
-✔ Performance Optimization  
+🔹 React, Framer Motion  
+🔗 Live: https://eventhub.webixinfotech.in  
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/manthan-namdev-289325336/?skipRedirect=true
+![Streak](https://streak-stats.demolab.com?user=Demon437&theme=tokyonight)
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/manthan-namdev-289325336/
 Email: manthannamdev100@gmail.com
-
----
-
-⭐ Always building. Always improving.
